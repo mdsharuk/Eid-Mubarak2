@@ -1,0 +1,49 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hero_section{
+    background-color: #0A2640;
+}
+.container{
+    max-width: 1800px;
+    margin: auto;
+}
+.section_container{
+    font-size: 10px;
+    text-align: center;
+   padding-top: 20px;
+    color: goldenrod;
+}
+.section_container p{
+    color: antiquewhite;
+    padding: 10px;
+}
+
+.section_img{
+    text-align: center;
+    padding-top: 20px;
+}
+.img_sanju{
+    width: 91%;
+    border: 2px solid;
+    border-radius: 16px;
+}
+.hero-btn{
+    text-align: center;
+}
+.hero-btn a{
+    padding: 0px;
+    margin: auto;
+    text-decoration: none;
+    color: brown;
+    background: border-box;
+    font-size: 22px;
+}
+button{
+ border-radius: 17px;
+ height: 45px;
+}
